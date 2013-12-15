@@ -46,7 +46,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CoinCounter.cs" />
+     <Compile Include="Assets\MovementVars.cs" />
      <Compile Include="Assets\Movements.cs" />
+     <Compile Include="Assets\PlayerCollisions.cs" />
+     <Compile Include="Assets\SceneMovements.cs" />
+     <Compile Include="Assets\TriggerEvent.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>

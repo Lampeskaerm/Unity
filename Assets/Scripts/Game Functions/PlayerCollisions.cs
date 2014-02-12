@@ -6,7 +6,7 @@ public class PlayerCollisions : MonoBehaviour {
 	public bool maxCoinsReached;
 
 	void Update() {
-		int maxCoins = GameObject.FindGameObjectsWithTag("Coin").Length;
+		int maxCoins = Coin.coinCount;
 
 		if (maxCoins == coins) {
 			maxCoinsReached = true;

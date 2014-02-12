@@ -8,6 +8,5 @@ public class CoinCounter : MonoBehaviour {
 		player = GameObject.FindGameObjectWithTag ("Player");
 		int coins = player.GetComponent <PlayerCollisions> ().coins;
 		guiText.text = "Coins: " + coins;
-
 	}
 }

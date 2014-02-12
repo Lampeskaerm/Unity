@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerCollisions.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Finish Menu\NextLevelButton.cs">
     <Files>
-      <File FileName="Assets\PlayerCollisions.cs" Line="21" Column="3" />
-      <File FileName="Assets\CoinCounter.cs" Line="11" Column="3" />
+      <File FileName="Assets\Scripts\Game Functions\FinishTrigger.cs" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\Finish Menu\NextLevelButton.cs" Line="8" Column="34" />
+      <File FileName="Assets\Scripts\Main Menu\PlayButton.cs" Line="7" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
